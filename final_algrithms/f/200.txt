@@ -1,0 +1,6577 @@
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560 
+
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
+Assignment 1
+Huffman Compression & Decompression
+You are required to write a program that can compress
+and decompress a file using Huffman encoding.
+Input to this program is:
+1. A file name.
+2. Whether to compress or decompress the file.
+Output of the program is:
+1. The compressed/decompressed file.
+2. The code used to code the bytes of the source file.
+3. The compression ratio.
+4. The execution time.
+1. Merge Sort
+The merge sort algorithm closely follows the divide-andconquer
+paradigm. Intuitively,
+it operates as follows.
+Divide: Divide the n-element sequence to be sorted into
+two subsequences of n=2 elements each.
+Conquer: Sort the two subsequences recursively using
+merge sort.
+Combine: Merge the two sorted subsequences to product
+the sorted answer.
+Merge Sort
+A sorting algorithm based on divide and conquer.
+Because we are dealing with sub problems we state the
+sub problem as sorting a subarray A[p…r]. Initily p=1 and
+r=n but this values change as we recurse through sub
+problems to sort A[p…r]
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+1
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\input.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+ 
+compression ratio=0.5738355
+Time=23140
+
+---- Menu ----
+-- [1] to compress
+-- [2] to decompress
+-- [3] to compress folder
+-- [4] exit
+
+2
+enter file path 
+
+C:\Users\RS\Desktop\Huffman\q.txt
+enter output file path 
+
+C:\Users\RS\Desktop\Huffman\z.txt
+compression ratio=0.575
+Time=11560
